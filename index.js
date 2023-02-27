@@ -1,5 +1,5 @@
 // This function loads pokemon data from the Pokemon API
-function fetchPokemonJSON() {
+function fetchsimpsonJSON() {
   // Feel free to download this HTML and edit it, to use another Pokemon ID
 
   const url = `https://thesimpsonsquoteapi.glitch.me/quotes
@@ -26,4 +26,4 @@ function fetchPokemonJSON() {
     });
 }
 
-fetchPokemonJSON();
+fetchsimpsonJSON();
